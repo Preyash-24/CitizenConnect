@@ -78,5 +78,4 @@ Technology Assessment: Ensured alignment with project requirements.
 Backend Development: Implemented systematic backend solutions.
 Ongoing Maintenance: Facilitated continuous improvement based on user feedback.
 
-Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with any improvements or bug fixes.
